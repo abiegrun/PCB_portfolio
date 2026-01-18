@@ -1,6 +1,10 @@
 # TIMBIT-01 Transceiver
 
-Compact 4-layer PCB project for the York University Rocket Club ground station system. Built for clean routing, reliable bring-up, and easy integration with the ground station stack.
+The TIMBIT-01 is a custom transciever PCB based around the XBee-PRO SX 900MHz RF module, designed for long-range communication between Arbalest Rocketry's 2026 GOOSE 5 rocket and ground station.
+
+The TIMBIT-01 was designed in collaboration with Georgii Lavreniuk with guidance from the Ground Station lead Jose Zambrano Lopez.
+
+
 
 ---
 
