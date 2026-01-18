@@ -2,7 +2,7 @@
 
 The TIMBIT-01 is a custom transciever PCB based around the XBee-PRO SX 900MHz RF module, designed for long-range communication between Arbalest Rocketry's 2026 GOOSE 5 rocket and ground station.
 
-This project was designed in collaboration with Georgii Lavreniuk with guidance from the Ground Station Team lead Jose Zambrano Lopez.
+This project was designed in collaboration with Georgii Lavreniuk with guidance from Arbalest's Ground Station lead Jose Zambrano Lopez.
 
 
 
