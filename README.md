@@ -1,16 +1,6 @@
-# TIMBIT-01 — Custom 900MHz Transciever for York University's Arbalest Rocketry
+# TIMBIT-01 — Rocket Ground Station Modem PCB
 
-The TIMBIT-01 PCB is the first iteration of a custom 900 MHz radio transceiver designed for for two-end RF communication for York University's Arbalest Rocketry team between the ground station and GOOSE 5 rocket for Launch Canada 2026.
-
-This project was co-led by Abie Grunfeld and Georgii Lavreniuk, with guidance from ground station lead Jose Zambrano Lopez.
----
-
-## Quick Specs
-
-* **Tool:** Altium Designer
-* **Stackup:** 4-layer
-* **Category:** Communications / Modem interface board
-* **Status:** Prototype / Iteration-ready
+Compact 4-layer PCB project for the York University Rocket Club ground station system. Built for clean routing, reliable bring-up, and easy integration with the ground station stack.
 
 ---
 
@@ -40,19 +30,11 @@ This project was co-led by Abie Grunfeld and Georgii Lavreniuk, with guidance fr
 
 ---
 
-## Repository Contents
+## Project Files
 
-* PCB project (`.PrjPcb`)
-* Schematics (`.SchDoc`)
-* PCB layout (`.PcbDoc`)
-* BOM (`.BomDoc`)
-
----
-
-## Notes
-
-* Layout organized for clear routing + return paths
-* Schematic blocks split by subsystem for readability
-* Built with iteration and debugging in mind
+* `XBeeSXPro_Breakout.PrjPcb` (project)
+* Schematics: `XBeeRadioMain.SchDoc`, `FTDI_Chip.SchDoc`, `Peripherals.SchDoc`, `LED_Indicators.SchDoc`
+* `MainPCB_XBeeSXPro_Breakout.PcbDoc` (layout)
+* `XBeeBOM.BomDoc` (BOM)
 
 ---
