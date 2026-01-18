@@ -4,7 +4,14 @@ The TIMBIT-01 is a custom transciever PCB based around the XBee-PRO SX 900MHz RF
 
 This project was designed in collaboration with Georgii Lavreniuk with guidance from Arbalest's Ground Station lead Jose Zambrano Lopez.
 
-
+---
+## Specifications
+- 4-layer board with a power plane and three ground planes
+- XBee-PRO SX RF module used as the central transciever
+- +5V power in using 2-pin MOLEX Micro-fit header regulated to +3.3V
+- 2x6-pin MOLEX Micro-Fit headers for UART/SPI lines to host computer
+- USB-C headed UART lines bridged through an FTDI chip for bring-up/debug
+- SMA connector routed with 50 Ohm matched impedance network
 
 ---
 
