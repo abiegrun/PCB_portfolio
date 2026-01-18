@@ -10,7 +10,7 @@ Compact 4-layer PCB project for the York University Rocket Club ground station s
 ![TIMBIT-01 3D Top](Images/TIMBIT-01_3D_view_top.png)
 
 **Bottom View**
-![TIMBIT-01 3D Bottom](Images/TIMBIT-01_3D_view_bottom.png)
+![TIMBIT-01 3D Bottom](Images/TIMBIT-01_3d_view_bottom.png)
 
 ---
 
