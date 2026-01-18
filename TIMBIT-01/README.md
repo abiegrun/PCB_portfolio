@@ -1,4 +1,4 @@
-# TIMBIT-01 — Rocket Ground Station Modem PCB
+# TIMBIT-01 - Custom 900MHz Transciever PCB designed for Arbalest Rocketry
 
 Compact 4-layer PCB project for the York University Rocket Club ground station system. Built for clean routing, reliable bring-up, and easy integration with the ground station stack.
 
